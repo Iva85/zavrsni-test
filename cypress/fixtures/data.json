@@ -1,0 +1,19 @@
+{
+    "register" : {
+        "email" : "ivatest2@test.com",
+        "password" : "test1234",
+        "passwordConfirmation" : "test1234",
+        "firstName" : "Lorem",
+        "lastName" : "Ipsum",
+        "emailWithoutET" : "ivatest111",
+        "emailWithoutDomain" : "ivatest111@",
+        "wrongConfirmPassword" : "12345678"
+    },
+    "professor" : {
+        "firstName" : "Miriam",
+        "lastName" : "Markovic"
+    },
+    "gradebook" : {
+        "title" : "Gradebook title by Iva"
+    }
+}

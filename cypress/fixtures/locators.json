@@ -1,0 +1,18 @@
+{
+    "register" : {
+        "firstName" : "#firstName",
+        "lastName" : "#lastName",
+        "password" : "#password",
+        "passwordConfirmation" : "#passwordConfirmation",
+        "email" : "#email",
+        "terms" : "#termsAndConditions",
+        "submit" : "button[type='submit']",
+        "navRegister" : "li .nav-link",
+        "signOut" : ":nth-child(2) > .nav-item"
+    },
+    "login" : {
+        "email" : "input[name='email']",
+        "password" : "input[name='password']",
+        "submit" : "button[type='submit']"
+    }
+}
