@@ -43,15 +43,11 @@
 					}
 				},
 				"url": {
-					"raw": "https://gradebook-api.vivifyideas.com/api/register",
-					"protocol": "https",
+					"raw": "{{baseUrl}}/register",
 					"host": [
-						"gradebook-api",
-						"vivifyideas",
-						"com"
+						"{{baseUrl}}"
 					],
 					"path": [
-						"api",
 						"register"
 					]
 				}
@@ -96,15 +92,11 @@
 					}
 				},
 				"url": {
-					"raw": "https://gradebook-api.vivifyideas.com/api/register",
-					"protocol": "https",
+					"raw": "{{baseUrl}}/register",
 					"host": [
-						"gradebook-api",
-						"vivifyideas",
-						"com"
+						"{{baseUrl}}"
 					],
 					"path": [
-						"api",
 						"register"
 					]
 				}
@@ -149,15 +141,11 @@
 					}
 				},
 				"url": {
-					"raw": "https://gradebook-api.vivifyideas.com/api/register",
-					"protocol": "https",
+					"raw": "{{baseUrl}}/register",
 					"host": [
-						"gradebook-api",
-						"vivifyideas",
-						"com"
+						"{{baseUrl}}"
 					],
 					"path": [
-						"api",
 						"register"
 					]
 				}
@@ -202,15 +190,11 @@
 					}
 				},
 				"url": {
-					"raw": "https://gradebook-api.vivifyideas.com/api/register",
-					"protocol": "https",
+					"raw": "{{baseUrl}}/register",
 					"host": [
-						"gradebook-api",
-						"vivifyideas",
-						"com"
+						"{{baseUrl}}"
 					],
 					"path": [
-						"api",
 						"register"
 					]
 				}
@@ -255,15 +239,11 @@
 					}
 				},
 				"url": {
-					"raw": "https://gradebook-api.vivifyideas.com/api/register",
-					"protocol": "https",
+					"raw": "{{baseUrl}}/register",
 					"host": [
-						"gradebook-api",
-						"vivifyideas",
-						"com"
+						"{{baseUrl}}"
 					],
 					"path": [
-						"api",
 						"register"
 					]
 				}
@@ -319,15 +299,11 @@
 					}
 				},
 				"url": {
-					"raw": "https://gradebook-api.vivifyideas.com/api/register",
-					"protocol": "https",
+					"raw": "{{baseUrl}}/register",
 					"host": [
-						"gradebook-api",
-						"vivifyideas",
-						"com"
+						"{{baseUrl}}"
 					],
 					"path": [
-						"api",
 						"register"
 					]
 				}
@@ -372,15 +348,11 @@
 					}
 				},
 				"url": {
-					"raw": "https://gradebook-api.vivifyideas.com/api/register",
-					"protocol": "https",
+					"raw": "{{baseUrl}}/register",
 					"host": [
-						"gradebook-api",
-						"vivifyideas",
-						"com"
+						"{{baseUrl}}"
 					],
 					"path": [
-						"api",
 						"register"
 					]
 				}
@@ -430,15 +402,11 @@
 					}
 				},
 				"url": {
-					"raw": "https://gradebook-api.vivifyideas.com/api/register",
-					"protocol": "https",
+					"raw": "{{baseUrl}}/register",
 					"host": [
-						"gradebook-api",
-						"vivifyideas",
-						"com"
+						"{{baseUrl}}"
 					],
 					"path": [
-						"api",
 						"register"
 					]
 				}
